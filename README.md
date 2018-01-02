@@ -1,5 +1,5 @@
 # nn
-neural network project
+# neural network project
 import numpy
 from keras.datasets import mnist
 from keras.models import Sequential
