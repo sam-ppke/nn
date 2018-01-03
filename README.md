@@ -1,5 +1,4 @@
-#        Handwritten Digit Recognition
-# using Convolutional Neural Networks in Python with Keras
+#        Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras
 Using MNIST which is is a dataset developed by Yann LeCun, Corinna Cortes and Christopher Burges for evaluating machine learning models on the handwritten digit classification problem.
 
 # Install Keras from PyPI
