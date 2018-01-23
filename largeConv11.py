@@ -70,7 +70,7 @@ plt.ylabel('Accuracy')
 
 # ===============================================
 # AFTER EXCUTING THE PREVIOUS CODE, THE RESULTS WILL BE:
-Large CNN Error: 0.70%
-Accuracy: 99.30%
-Test score: 2.17%
+# Large CNN Error: 0.70%
+# Accuracy: 99.30%
+# Test score: 2.17%
 
