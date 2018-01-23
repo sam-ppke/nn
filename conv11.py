@@ -61,4 +61,7 @@ plt.plot(xc,train_acc)
 plt.xlabel('num of Epochs')
 plt.ylabel('Accuracy')
 
-
+# =================================
+# AFTER EXCUTING THE PREVIOUS CODE, THE RESULT WILL BE:
+# Accuracy: 98.93%
+# Test score: 3.19%
