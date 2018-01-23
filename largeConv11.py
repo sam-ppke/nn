@@ -68,5 +68,9 @@ plt.plot(xc,train_acc)
 plt.xlabel('num of Epochs')
 plt.ylabel('Accuracy')
 
-
+# ===============================================
+# AFTER EXCUTING THE PREVIOUS CODE, THE RESULTS WILL BE:
+Large CNN Error: 0.70%
+Accuracy: 99.30%
+Test score: 2.17%
 
